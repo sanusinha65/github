@@ -3,9 +3,9 @@
     list-style-type: none;
     border: 1px solid #0e518c;
     border-radius: 5px;
-    width: 50%;
+    width: auto;
     max-height: auto;
-    height: 100px;
+    height: auto;
     padding: 1%;
     background-color: #0e518c;
     
